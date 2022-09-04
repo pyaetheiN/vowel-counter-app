@@ -6,7 +6,6 @@ My take on a Beginner JavaScript project.
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -21,18 +20,11 @@ My take on a Beginner JavaScript project.
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- View details via pop-up modal
-- Delete notes
-- Receive an error message when the `form` is submitted if:
-  - Any `input` field is empty. The message for this error should say *"Please enter all the fields"*
-
-### Screenshot
-
-![](/solution-design/mobile-preview.png)
+- Get alerts according to the inputs
 
 ### Links
 
-- Live Site URL: https://pyaethein.github.io/note-taker/
+- Live Site URL: https://pyaethein.github.io/vowel-counter-app/
 
 ## My process
 
